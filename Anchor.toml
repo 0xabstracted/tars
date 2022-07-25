@@ -1,7 +1,7 @@
 [features]
 seeds = false
 [programs.devnet]
-tars_launch = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+tars_launch = "CASE88YSoMZS8hFter4pzC9jC5g7RkPsjsaxH8uYzgGi"
 
 [registry]
 url = "https://anchor.projectserum.com"
