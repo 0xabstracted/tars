@@ -4,7 +4,6 @@ use mpl_token_metadata::{
     state::Metadata, utils::create_or_allocate_account_raw,
 };
 use solana_program::program::invoke;
-use mpl_token_metadata::state::TokenMetadataAccount;
 use crate::{
     cmp_pubkeys,
     constants::{COLLECTIONS_FEATURE_INDEX, COLLECTION_PDA_SIZE},

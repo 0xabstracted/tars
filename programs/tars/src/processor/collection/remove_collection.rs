@@ -1,7 +1,6 @@
 use anchor_lang::prelude::*;
 use mpl_token_metadata::{instruction::revoke_collection_authority, state::Metadata};
 use solana_program::program::invoke;
-use mpl_token_metadata::state::TokenMetadataAccount;
 use crate::{
     cmp_pubkeys, constants::COLLECTIONS_FEATURE_INDEX, remove_feature_flag, TarsError,
     Tars, CollectionPDA,
