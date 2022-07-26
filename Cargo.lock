@@ -1338,9 +1338,9 @@ dependencies = [
 
 [[package]]
 name = "solana-frozen-abi"
-version = "1.10.32"
+version = "1.10.29"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "433475665200079c4d520fdf274cfb021fedaaa48cf43b2bf552db9737a09afc"
+checksum = "4b4575674b138156108ea7ee855633b28b72d8cd3890245e0847bfdade3797dc"
 dependencies = [
  "bs58 0.4.0",
  "bv",
@@ -1360,9 +1360,9 @@ dependencies = [
 
 [[package]]
 name = "solana-frozen-abi-macro"
-version = "1.10.32"
+version = "1.10.29"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "cb65eeda364de9ee86c59f99aa4a9a8599ed3464cbe8cd0adf71a288f5bfde16"
+checksum = "5ec433ed9f8e7dd62edb6ebe13be01a5e0ec04734305836906709339428c7eaf"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -1372,9 +1372,9 @@ dependencies = [
 
 [[package]]
 name = "solana-gateway"
-version = "0.2.2"
+version = "0.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "243daaf437dff89891d520c3e9be7b4a6940c30a1bda2ac094e621046f303eda"
+checksum = "282ce1447f4b73c83dea4daef0011381e1b769d6a64ed5cd19f0b9f2dc32458b"
 dependencies = [
  "bitflags",
  "borsh 0.9.3",
@@ -1387,9 +1387,9 @@ dependencies = [
 
 [[package]]
 name = "solana-program"
-version = "1.10.32"
+version = "1.10.29"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "41b1ec362f0681e0a4285aa3cd746736755b0e3a71dad61657060b50df834f06"
+checksum = "d326eeba5a7ddce915ae3aec9eed8ff017f68baf6149f5b075b25e6834c16eae"
 dependencies = [
  "base64 0.13.0",
  "bincode",
@@ -1429,9 +1429,9 @@ dependencies = [
 
 [[package]]
 name = "solana-sdk-macro"
-version = "1.10.32"
+version = "1.10.29"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "f2e144e75370b150f182307b075489e330b81a3ced608f00965c08d04e398df5"
+checksum = "d8d94af92e7bca7d55a2e21b55a882545bd9709e4056de4a97b1e1fdc8687ccd"
 dependencies = [
  "bs58 0.4.0",
  "proc-macro2",
